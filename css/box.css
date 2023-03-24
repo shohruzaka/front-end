@@ -69,3 +69,12 @@
     padding: 0px 20px;
     border-bottom: 1px solid #cecece;
 }
+.footer{
+    display: flex;
+    font-size: 26px;
+    height: 80px; 
+    background-color: black;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}
