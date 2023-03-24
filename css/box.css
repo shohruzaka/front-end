@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.news-box{
+
+  display: flex;
+  flex-direction: row;
+  margin: 70px;
+  background-color: #eff2f8;
+  height: 346px;
+  width: 1018px;
+}
+.text{
+    padding: 25px;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.icon span{
+    margin-left: 10px;
+
+
+}
+.sarlavha{
+    margin-top: 25px;
+}
+.descript{
+    margin-top: 25px;
+    line-height: 26px;
+    font-size: 14px;
+    text-align: justify;
+}
+.rasm{
+    /* width: 150px; */
+    /* display: block; */
+}
+
+.little-news-box{
+    margin: 70px;
+    display: flex;
+    flex-direction: row;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+}
+.news-boxes{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    margin: 10px 0px;
+}
+.rasm-n{
+    height: 100px;
+}
+.sana{
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+}
+.sana img{
+    margin-right: 10px;
+}
+.title-news{
+    padding: 0px 20px;
+    border-bottom: 1px solid #cecece;
+}
